@@ -1,1 +1,1 @@
-# project-academy
+# hello-world
